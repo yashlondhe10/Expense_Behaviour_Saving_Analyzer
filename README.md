@@ -14,7 +14,7 @@ A web-based personal finance management application with machine learning-powere
   - Financial behavior classification (Good Saver, Average Saver, Overspender)
 - **Budget Monitoring**: Configurable spending thresholds by category
 - **Responsive UI**: Clean, user-friendly web interface
-- **Data Persistence**: SQLite database for reliable data storage
+- **Data Persistence**: MySQL database for reliable data storage
 
 ## Tech Stack
 
