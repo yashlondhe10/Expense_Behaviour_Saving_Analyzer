@@ -20,7 +20,7 @@ A web-based personal finance management application with machine learning-powere
 
 - **Backend**: Python Flask
 - **Frontend**: HTML, CSS, JavaScript
-- **Database**: SQLite with SQLAlchemy ORM
+- **Database**: SQL
 - **Authentication**: Flask-Login
 - **ML Analysis**: NumPy-based expense analyzer
 - **API Support**: CORS enabled for cross-origin requests
@@ -78,7 +78,7 @@ finance2/
 
 Key configuration settings in `config.py`:
 
-- **Database**: SQLite database at `expense_analyzer.db`
+- **Database**: SQL database at `expense_analyzer.db`
 - **Savings Rate Classification**:
   - Good Saver: > 30% savings rate
   - Average Saver: 10-30% savings rate
