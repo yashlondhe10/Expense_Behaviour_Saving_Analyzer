@@ -20,7 +20,7 @@ A web-based personal finance management application with machine learning-powere
 
 - **Backend**: Python Flask
 - **Frontend**: HTML, CSS, JavaScript
-- **Database**: SQL
+- **Database**: MySQL
 - **Authentication**: Flask-Login
 - **ML Analysis**: NumPy-based expense analyzer
 - **API Support**: CORS enabled for cross-origin requests
